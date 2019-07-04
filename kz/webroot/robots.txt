@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /*.js
+Allow: /*.css
+Disallow: /ru/search/
+Disallow: /search
+Disallow: /ru/*search*
+Disallow: /ru/admin/
+Disallow: /admin
+Disallow: /ru/*admin*
+Disallow: /*?*
+Disallow:*login.php?
+
+Host: http://almaty-cgkb.kz/
+
+Sitemap: http://almaty-cgkb.kz/ru/sitemap.xml

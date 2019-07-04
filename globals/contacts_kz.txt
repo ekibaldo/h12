@@ -1,0 +1,22 @@
+                    <div class="contacts_block">
+                    <b>ОҚҚА call орталығы</b>   <a href="tel:+77272280303" title="ОҚҚА call орталығы"><i>+7 727 228 03 03</i></a>
+                    <hr>
+                    <b>Регистратура КДО</b>  <a href="tel:+77272748261" title="Регистратура КДО"><i>+7 727 274 82 61</i></a>
+                    <hr>
+                     <b>Анықтамалық</b>    <a href="tel:+77272748443" title="Анықтамалық"><i>+7 727 274 84 43</i></a>
+                    <hr>
+                    <b><sub>Бірыңғай медициналық Call орталығы</sub></b>  <a href="tel:+77273000103" title="Бірыңғай медициналық Call орталығы"><i>+7 727 300 01 03</i></a>
+                    <hr>
+
+                    <span>Электрондық пошта:</span>
+                    <hr>
+
+                    <b><sub>Кеңсе</sub></b><a href="mailto:cgkb@mail.ru" title="Кеңсе"><i><sub>cgkb@mail.ru</sub></i></a>
+                    <hr>
+
+                    <b><sub>Пресс-служба</sub></b><a href="mailto:cgkb-almaty@mail.ru" title="Пресс-служба"><i><sub>cgkb-almaty@mail.ru</sub></i></a>
+                    <hr>
+                    
+                    <b><sub>Пациенттердi қолдау және iшкi бақылау қызметі (аудит)</sub></b><a href="mailto:expert@almaty-cgkb.kz" title="Пациенттердi қолдау және iшкi бақылау қызметі (аудит)"><i><sub>expert@almaty-cgkb.kz</sub></i></a>
+                    <hr>
+                    </div>

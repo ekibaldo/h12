@@ -1,0 +1,155 @@
+<div class="container">
+
+    <nav class="navbar fixed-top">
+      
+        <div class="row">
+            <div class="top-navbar">
+                <a class="bvi-panel-open-menu poor-vision hide-in-mobile" href="#">
+                    <button>
+                        <img src="/images/eyeglasses.svg" height="28px" />
+                        <b>Нашар көретіндерге арналған нұсқа</b>
+                    </button>
+                </a>
+
+                <div class="navbar-block">
+                    <button><a href="https://www.facebook.com/almaty.cgkb/?fref=hovercard" alt="Facebook" title="Facebook"><img src="/uploads/fm/images/facebook.svg" class="icon-style" /></a></button>
+                    <button><a href="https://www.instagram.com/almaty.cgkb" alt="Instagram" title="Instagram"><img src="/uploads/fm/images/instagram%20(2).svg" class="icon-style" /></a></button>
+                    <button><a href="https://www.youtube.com/channel/UCnoLnWIPnCygv-uV6FratRA" alt="YouTube" title="YouTube"><img src="/uploads/fm/images/youtube.svg" class="icon-style" /></a></button>
+                </div>
+
+                <div class="navbar-block" style="display: none;">
+                    <b class="hide-in-mobile">Қолдау қызметі:</b>
+                    <button><a href="https://api.whatsapp.com/send?phone=77089832854" alt="Whatsapp" title="Whatsapp"><img src="/uploads/fm/images/whatsapp.svg" class="icon-style" /></a></button>
+                    <button><a href="https://t.me/expert_almaty_cgkb" alt="Telegram" title="Telegram"><img src="/uploads/fm/images/telegram.svg" class="icon-style" /></a></button>
+                    <button class="hide-in-desktop"><a href="tel:+77272280303" alt="Call center" title="Call center"><img src="/images/smartphone.svg" class="icon-style" /></a></button>
+                </div>
+
+                <div class="navbar-block hide-in-mobile">
+                    
+                    <form id="search_form" action="/ru/search/services/" method="GET">
+                    <input type="search" name="search" onfocus="show('block')" placeholder="Іздеу" required="">
+                
+             
+                </div>
+
+              <div class="navbar-block hide-in-mobile">
+                    <a href = "/ru/">
+                        <img src="/images/russia.svg" height="20px"> <b>RU</b>
+                    </a>
+                </div>
+
+
+                <div class="button hide-in-desktop">
+                    <a class="btn-open" ></a>
+                </div>
+                
+        
+            </div>
+        </div>
+          
+      
+    </nav>
+
+          <!-- Всплывающее окно-->
+        <div id="window">           
+          <!-- Картинка крестика-->
+            <img class="close" onclick="show('none')" src="/images/close.svg">
+          
+
+          
+            <h4>Қай жерде іздейміз ?</h4> <br>
+
+            <div class="row">
+                <input type="radio" class="radio" name="find" value="1" id="find1" checked=""> <p>Баға көрсеткіші</p>
+                <input type="radio" class="radio" name="find" value="2" id="find2">  <p>Бөлімшелер</p>   
+                <input type="radio" class="radio" name="find" value="3" id="find3"> <p>Мамандар</p>              
+                <input type="radio" class="radio" name="find" value="4" id="find4"> <p>Жаңалықтар</p>              
+            </div>
+            
+            <div class="long_space"></div>
+            
+            <input type="submit" class="srch" height="20px" value="Іздеуді бастау">
+
+            
+          </form>       
+        
+      </div>
+
+
+
+
+    
+    <header>
+        <div class="small_space"></div>
+
+            <div class="row">
+                <div class="header">
+                    <div class="h-block">
+                        
+                        <div class="h-box">
+                           <a href="/kz/"> <img src="/images/logo.png" alt="Logo" title="Logo" height="140" /> </a>
+                        </div>
+                       
+                        <div class="h-box hide-in-mobile">
+                            <h1>Орталық қалалық клиникалық аурухана</h1>
+                        </div>
+                        <div class="h-box"> 
+                            <div class="contacts">
+                                <span>Call center:</span>
+                                <a href="tel:+77272280303" title="Call центр ЦГКБ"><b>+7 727 228 03 03</b></a>
+                                <i><a href="https://goo.gl/oLKNjB" target="_blank" rel="nofollow" title="Алматы Жандосов к. 6">Алматы Жандосов к. 6</a></i>
+                            </div>
+                        </div>
+                        <div class="h-box hide-in-mobile"> 
+
+                               <!-- <button>Жеке бөлме</button>
+                                <p>- <a href="/kz/contacts">картада қарау</a></p> -->
+																
+								<div class="zvezda" title="Звезда качества"></div>
+
+                        </div>  
+                    </div>
+                </div>
+            </div>
+
+        <div class="long_space"></div>
+
+            <div class="row">
+                <div class="header">
+                    <button class="feedback inactive">Анализдерді қарау</button>
+                    <button class="feedback inactive">Қабылдауға жазылу</button>
+                    <!-- <button class="feedback">Заказать обратный звонок</button> -->
+                    <button type="button" class="feedback" data-toggle="modal" data-target=".bs-example-modal-sm">Қоңырауды кері шақыру</button>
+
+
+
+
+
+
+<div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+
+                    <div class="my-box">
+                        <form class="my-form" name="feedback" action="/ru/mail/" method="POST">
+                            <h4>Мы свяжемся с вами в ближайшее время</h4>
+
+                            <p>Пожалуйста, заполните поля и закажите обратный звонок</p>
+
+                            <div class="in_put">Имя<input type="text" id="only-text" name="name" class="" required></div>
+
+                            <div class="in_put">Телефон<input type="tel" id="phone" name="phone" required></div>
+                
+                            <input type="submit" class="submit-btn" value="Заказать">
+                        </form>
+                    </div>
+
+    </div>
+  </div>
+</div>
+                </div>
+            </div>
+
+    </header>
+    
+  

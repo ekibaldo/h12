@@ -1,0 +1,8 @@
+msgid "hh"
+msgstr "тест!"
+
+msgid "hh2"
+msgstr "тест"
+
+msgid "ppp"
+msgstr "тест!"

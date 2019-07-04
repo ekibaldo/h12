@@ -1,0 +1,190 @@
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Edit"
+msgstr "Изм."
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "New Page"
+msgstr "Новая страница."
+
+msgid "List Categories"
+msgstr "Список страниц"
+
+msgid "New Category"
+msgstr "Новая категория"
+
+msgid "List Pages"
+msgstr "Список страниц"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "category_id"
+msgstr "id категории"
+
+msgid "title_ru"
+msgstr "Заголовок(ru)"
+
+msgid "title_kz"
+msgstr "Заголовок(kz)"
+
+msgid "menu"
+msgstr "Меню"
+
+msgid "position"
+msgstr "позиция"
+
+msgid "next"
+msgstr "далее"
+
+msgid "last"
+msgstr "назад"
+
+msgid "first"
+msgstr "первая"
+
+msgid "previous"
+msgstr "предыдущая"
+
+msgid "New Ad Slider1"
+msgstr "Добавить новый слайд"
+
+msgid "Ad Slider1"
+msgstr "Сладер 1"
+
+msgid "New Ad Slider2"
+msgstr "Добавить новый слайд"
+
+msgid "Ad Slider2"
+msgstr "Слайдер 2"
+
+msgid "New Ad Slider3"
+msgstr "Добавить новый слайд"
+
+msgid "Ad Slider3"
+msgstr "Слайдер 3"
+
+msgid "New Category"
+msgstr "Новая категория"
+
+msgid "Add Category"
+msgstr "Добавить категорию"
+
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Add Page"
+msgstr "Добавить страницу"
+
+msgid "Edit Page"
+msgstr "Редактировать страницу"
+
+msgid "Add Ad Slider1"
+msgstr "Добавить слайд"
+
+msgid "Add Ad Slider2"
+msgstr "Добавить слайд"
+
+msgid "Add Ad Slider3"
+msgstr "Добавить слайд"
+
+msgid "Edit Ad Slider1"
+msgstr "Редактировать слайд"
+
+msgid "Edit Ad Slider2"
+msgstr "Редактировать слайд"
+
+msgid "Edit Ad Slider3"
+msgstr "Редактировать слайд"
+
+msgid "List Ad Slider1"
+msgstr "Показать слайды"
+
+msgid "Ad News"
+msgstr "Новости"
+
+msgid "Add Ad News"
+msgstr "Добавить новость"
+
+msgid "Edit Ad News"
+msgstr "Редактировать новость"
+
+msgid "States"
+msgstr "Отделения"
+
+msgid "New State"
+msgstr "Добавить отделение"
+
+msgid "List Doctors"
+msgstr "Списко специалистов"
+
+msgid "New Doctor"
+msgstr "Новый специалист"
+
+msgid "List Servs"
+msgstr "Список услуг"
+
+msgid "New Serv"
+msgstr "Добавить услугу"
+
+msgid "Edit State"
+msgstr "Ректировать отделение"
+
+msgid "List States"
+msgstr "Список отделений"
+
+msgid "Edit Doctor"
+msgstr "Редактировать специалиста"
+
+msgid "Doctors"
+msgstr "Специалисты"
+
+msgid "Add Doctor"
+msgstr "Добавить специалиста"
+
+msgid "Servs"
+msgstr "Услуги"
+
+msgid "Edit Serv"
+msgstr "Редактировать услугу"
+
+msgid "Add Serv"
+msgstr "Добавить услугу"
+
+msgid "List States2"
+msgstr "Список платных услугу"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

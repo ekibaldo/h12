@@ -1,0 +1,156 @@
+<div class="container">
+
+    <nav class="navbar fixed-top">
+      
+        <div class="row">
+            <div class="top-navbar">
+                <a class="bvi-panel-open-menu poor-vision hide-in-mobile" href="#">
+                    <button>
+                        <img src="/images/eyeglasses.svg" height="28px" />
+                        <b>Версия для слабовидящих</b>
+                    </button>
+                </a>
+
+                <div class="navbar-block">
+                    <button><a href="https://www.facebook.com/almaty.cgkb/?fref=hovercard" alt="Facebook" title="Facebook"><img src="/uploads/fm/images/facebook.svg" class="icon-style" /></a></button>
+                    <button><a href="https://www.instagram.com/almaty.cgkb" alt="Instagram" title="Instagram"><img src="/uploads/fm/images/instagram%20(2).svg" class="icon-style" /></a></button>
+                    <button><a href="https://www.youtube.com/channel/UCnoLnWIPnCygv-uV6FratRA" alt="YouTube" title="YouTube"><img src="/uploads/fm/images/youtube.svg" class="icon-style" /></a></button>
+                </div>
+
+                <div class="navbar-block" style="display: none">
+                    <b class="hide-in-mobile">Служба аудита:</b>
+                    <button><a href="https://api.whatsapp.com/send?phone=77089832854" alt="Whatsapp" title="Whatsapp"><img src="/uploads/fm/images/whatsapp.svg" class="icon-style" /></a></button>
+                    <button><a href="https://t.me/expert_almaty_cgkb" alt="Telegram" title="Telegram"><img src="/uploads/fm/images/telegram.svg" class="icon-style" /></a></button>
+                    <button class="hide-in-desktop"><a href="tel:+77272280303" alt="Call center" title="Call center"><img src="/images/smartphone.svg" class="icon-style" /></a></button>
+                </div>
+
+                <div class="navbar-block hide-in-mobile">
+                    
+                    <form id="search_form" action="/ru/search/services/" method="GET">
+                    <input type="search" name="search" onfocus="show('block')" placeholder="Поиск" required="">
+                
+             
+                </div>
+
+                <div class="navbar-block hide-in-mobile">
+                    <a href = "/kz/">
+                        <img src="/images/kazakhstan.svg" height="20px"> <b>KZ</b>
+                    </a>
+                </div>
+
+
+                <div class="button hide-in-desktop">
+                    <a class="btn-open" ></a>
+                </div>
+                
+        
+            </div>
+        </div>
+          
+      
+    </nav>
+
+          <!-- Всплывающее окно-->
+        <div id="window">           
+          <!-- Картинка крестика-->
+            <img class="close" onclick="show('none')" src="/images/close.svg">
+          
+
+          
+            <h4>Где будем искать?</h4> <br>
+
+            <div class="row">
+                <input type="radio" class="radio" name="find" value="1" id="find1" checked=""> <p>Прейскурант</p>
+                <input type="radio" class="radio" name="find" value="2" id="find2">  <p>Отделения</p>   
+                <input type="radio" class="radio" name="find" value="3" id="find3"> <p>Специалисты</p>              
+                <input type="radio" class="radio" name="find" value="4" id="find4"> <p>Новости</p>              
+            </div>
+            
+            <div class="long_space"></div>
+            
+            <input type="submit" class="srch" height="20px" value="Начать поиск">
+
+            
+          </form>       
+        
+      </div>
+
+
+
+
+    
+    <header>
+        <div class="small_space"></div>
+
+            <div class="row">
+                <div class="header">
+                    <div class="h-block">
+                        
+                        <div class="h-box">
+                           <a href="/"> <img src="/images/logo.png" alt="Logo" title="Logo" height="140" /> </a>
+                        </div>
+                       
+                        <div class="h-box hide-in-mobile">
+                            <h1>ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА</h1>
+                        </div>
+                        <div class="h-box"> 
+                            <div class="contacts">
+                                <span>Call center:</span>
+                                <a href="tel:+77272280303" title="Call центр ЦГКБ"><b>+7 727 228 03 03</b></a>
+                                <i><a href="https://goo.gl/oLKNjB" target="_blank" rel="nofollow" title="Алматы ул. Джандосова 6">Алматы ул. Джандосова 6</a></i>
+                            </div>
+                        </div>
+                        <div class="h-box hide-in-mobile"> 
+
+                               <!-- <button>Личный кабинет</button>
+                                <p>- <a href="/ru/contacts">посмотреть адрес на карте</a></p> -->
+								
+								<div class="zvezda" title="Звезда качества"></div>
+
+                        </div>  
+                    </div>
+                </div>
+            </div>
+
+        <div class="long_space"></div>
+
+            <div class="row">
+                <div class="header">
+                    <!--<button class="feedback inactive">Посмотреть анализы</button>
+                    <button class="feedback inactive">Записаться на приём</button>
+                    <button class="feedback">Заказать обратный звонок</button>
+                    <button type="button" class="feedback" data-toggle="modal" data-target=".bs-example-modal-sm">Заказать обратный звонок</button>-->
+					
+					<button id="myBtn" type="button" style="margin: 5px 2.5% 15px auto;" class="feedback">Оставить отзыв</button>
+<!--
+                        <div class="myModalBack" id="myModal">
+                            <form class="myModalBox" id="formBody">
+                                <a class="closeModal" id="closeModal"></a>
+                                <div class="myModalBlock">
+                                    <label>Телефон <small>(не будет указан на странице отзывов)</small></label>
+                                    <input type="tel" id="phone" name="phone" required>
+                                    <div class="error-box"></div>
+                                </div>
+                                <div class="myModalBlock">
+                                    <label>ФИО</label>
+                                    <input type="name" id="name" name="name" required>
+                                    <div class="error-box"></div>
+                                </div>
+                                <div class="myModalBlock">
+                                    <label>E-mail</label>
+                                    <input type="email" id="email" name="email" required>
+                                    <div class="error-box"></div>
+                                </div>
+                                <div class="myModalBlock">
+                                    <label>Отзыв</label>
+                                    <textarea type="text" id="message" name="message" required>
+                                </div>
+                            </form>
+                        </div>
+				-->		
+                </div>
+            </div>
+
+    </header>
+    
+  

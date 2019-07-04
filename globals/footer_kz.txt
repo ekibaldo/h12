@@ -1,0 +1,254 @@
+﻿    <footer>
+       <div class="row">
+            <div class="footer">
+                <div class="f-block">
+                    <div class="f-box">
+                        <a href="/ru/#my-states"><h5>Бөлімше</h5></a>
+                        <a href="/ru/page?id=11"><h5>Пациенттерді қолдау қызметі</h5></a>
+                        <a href="/ru/page?id=10"><h5>Call орталығы</h5></a>
+                        <a href="http://almatyzdrav.kz/outreach/helpline/" target="_blank" rel="nofollow"><h5>Бірыңғай медициналық Call орталығы</h5></a>
+                        <a href="/ru/medser/price"><h5>Баға тізбесі</h5></a>
+                        <a href="/ru/page?id=25"><h5>Пікір қалдыру/сұрақ қою</h5></a>
+                        <a href="/ru/contacts/"><h5>Байланыс</h5></a>
+                    </div>
+                    <div class="f-box">
+                        <a href="http://adilet.zan.kz/rus/docs/U1600000176" target="_blank" rel="nofollow"><h5>Денсаулық мемлекеттік бағдарламасы</h5></a>
+                        <a href="http://egov.kz/cms/ru" target="_blank" rel="nofollow"><h5>Электронды үкімет</h5></a>
+                        <a href="http://www.rcrz.kz/index.php/ru/2017-03-12-10-51-13/klinicheskie-protokoly" target="_blank" rel="nofollow"><h5>Клиникалық хаттамалар</h5></a>
+                        <a href="/ru/page?id=12"><h5>Жиі қойылатын сұрақтар</h5></a>
+                    </div>
+
+                    <div class="f-box">
+                        <div class="widget bvi-hide hide-in-mobile">
+                            <iframe id="akOrda" src="https://goo.gl/bsxeNb" frameborder="0" style=""></iframe>
+                        </div>
+                    </div>
+
+                </div>
+<div class="hide-in-mobile metriya">
+<!-- Yandex.Metrika informer --> <a href="https://metrika.yandex.ru/stat/?id=47563051&from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/47563051/3_1_FFFFFFFF_FFFFFFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="47563051" data-lang="ru" /></a> <!-- /Yandex.Metrika informer --> <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter47563051 = new Ya.Metrika({ id:47563051, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/47563051" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</div>
+
+<div class="hide-in-mobile zero">
+<!-- ZERO.kz -->
+<span id="_zero_63757">
+<noscript>
+<a href="http://zero.kz/?s=63757" target="_blank">
+<img src="http://c.zero.kz/z.png?u=63757" width="88" height="31" alt="ZERO.kz" />
+</a>
+</noscript>
+</span>
+
+<script type="text/javascript"><!--
+var _zero_kz_ = _zero_kz_ || [];
+_zero_kz_.push(["id", 63757]);
+_zero_kz_.push(["type", 1]);
+
+(function () {
+    var a = document.getElementsByTagName("script")[0],
+    s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https:" : "http:")
+    + "//c.zero.kz/z.js";
+    a.parentNode.insertBefore(s, a);
+})(); //-->
+</script>
+<!-- End ZERO.kz -->
+</div>
+
+                      <div class="copyright">© Орталық қалалық кдиникалық аурухана. Алматы қ. 2019</div>
+                      <a  class="hide-in-mobile" href="http://lamplab.kz" title="Создано в lampLAB" target="_blank"><div class="lamplab"><div class="create">Создано в lampLAB </div><img src="/images/ll.svg" class="icon-style" alt="Создано в lampLAB" title="Создано в lampLAB" /></div></a>
+            </div>   
+       </div> 
+
+    </footer>
+
+
+
+
+</div>
+
+<div class="to_top hide-in-mobile" id="toTop">  </div>
+    </body>
+  
+        <script type="text/javascript" src="/assets/js/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="/assets/js/popper.min.js"></script>
+        <script type="text/javascript" src="/assets/js/mdb.min.js"></script>
+
+        <script type='text/javascript' src='/bvi/js/responsivevoice.min.js?ver=1.5.3'></script>
+        <script type='text/javascript' src='/bvi/js/bvi-init-panel.min.js?ver=0.1'></script>
+        <script type='text/javascript' src='/bvi/js/bvi.min.js?ver=1.0.6'></script>
+        <script type='text/javascript' src='/bvi/js/js.cookie.min.js?ver=2.1.3'></script>
+
+        <script src="/js/swiper.min.js"></script>
+        <script src="/js/bootstrap.min.js"></script>
+        <script src="/js/jquery.maskedinput.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+     
+$('#find1').click(function(){
+   $('#search_form').attr('action', '/ru/search/services/');
+});
+
+$('#find2').click(function(){
+   $('#search_form').attr('action', '/ru/search/states/');
+});
+
+$('#find3').click(function(){
+   $('#search_form').attr('action', '/ru/search/doctors/');
+});
+
+$('#find4').click(function(){
+   $('#search_form').attr('action', '/ru/search/news/');
+});
+
+
+      $("#my-agree").attr('disabled', 'disabled');
+
+    
+      jQuery(function($){
+         $("#phone").mask("+7 (999) 999-9999");
+      }) ;
+
+      
+      
+
+      $("#only-text").on('keyup', function(e) {
+          var val = $(this).val();
+         if (val.match(/[^a-zA-Zа-яА-Я ]/g)) {
+             $(this).val(val.replace(/[^a-zA-Zа-яА-Я ]/g, ''));
+         }
+      });
+
+      $("#only-service").on('keyup', function(e) {
+          var val = $(this).val();
+         if (val.match(/[^a-zA-Zа-яА-Я ]/g)) {
+             $(this).val(val.replace(/[^a-zA-Zа-яА-Я ]/g, ''));
+         }
+      });
+
+      $("#only-question").on('keyup', function(e) {
+          var val = $(this).val();
+         if (val.match(/[^a-zA-Zа-яА-Я ]/g)) {
+             $(this).val(val.replace(/[^a-zA-Zа-яА-Я ]/g, ''));
+         }
+      });
+
+      
+          //Функция показа
+      function show(state){
+
+          document.getElementById('window').style.display = state;
+         
+      }
+
+      
+        var swiper = new Swiper('.swiper-container', {
+          spaceBetween: 30,
+          centeredSlides: true,
+          loop: 'true',
+          /* effect: 'fade', */
+          autoplay: {
+            delay: 4500,
+            disableOnInteraction: false,
+          },
+          pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+          },
+          navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+          },
+ 
+        });
+
+
+    if(kostil== undefined){	
+
+	    var kostil= 300;	    
+
+    }			
+
+    $(function(){
+     $(window).scroll(function() {
+     if($(this).scrollTop() >= kostil) {
+     $('div.main-navbar').addClass('top_nav');
+     }
+     else{
+     $('div.main-navbar').removeClass('top_nav');
+     }
+     });
+    });
+    
+
+    $(function() {
+      $(window).scroll(function() {
+        if($(this).scrollTop() != 0) {
+          $('#toTop').fadeIn();
+        } else {
+          $('#toTop').fadeOut();
+        }
+      });
+      $('#toTop').click(function() {
+        $('body,html').animate({scrollTop:0},800);
+      });
+    });
+
+    
+    
+    
+    
+    
+    $(document).ready(function(){
+    $(".button a").click(function(){
+        $(".overlay").fadeToggle(200);
+       $(this).toggleClass('btn-open').toggleClass('btn-close');
+    });
+  });
+  $('.overlay').on('click', function(){
+    $(".overlay").fadeToggle(200);   
+    $(".button a").toggleClass('btn-open').toggleClass('btn-close');
+    open = false;
+  });
+      
+    
+    
+    
+  </script>
+
+      <script src="/js/index.js"></script>   
+
+       <script src="/js/jquery.searchable.js"></script>
+
+        <script type="text/javascript">
+
+                $(function () {
+                    $( '#table' ).searchable({
+                        striped: true,
+                        oddRow: { 'background-color': '#f5f5f5' },
+                        evenRow: { 'background-color': '#fff' },
+                        searchType: 'fuzzy'
+                    });
+                    
+                    $( '#searchable-container' ).searchable({
+                        searchField: '#container-search',
+                        selector: '.row',
+                        childSelector: '.col-xs-4',
+                        show: function( elem ) {
+                            elem.slideDown(100);
+                        },
+                        hide: function( elem ) {
+                            elem.slideUp( 100 );
+                        }
+                    })
+                });
+
+
+              </script>
+
+
+
+
+</html>
