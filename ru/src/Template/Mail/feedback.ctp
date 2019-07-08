@@ -24,11 +24,26 @@
 
 
 <?php
+use Cake\ORM\TableRegistry;
 
-$name = $_POST['name'];
+
 $phone = $_POST['phone'];
 $email = $_POST['email'];
 $message = $_POST['message'];
+
+
+if($_POST['name']!=''){
+    $faq = TableRegistry::get('ad_faq');
+    $query = $faq->query();
+    $query->insert(['date_post','fio', 'q','status'])
+        ->values([
+            'date_post'=> date('Y-m-d', time()),
+            'fio' => $_POST['name'],
+            'q' => $_POST['message'],
+            'status' => 0
+        ])
+        ->execute();
+}
 
 $subject = "Заказали звонок!";
 $text = "
@@ -43,7 +58,7 @@ E-mail: ".$email."
 $myMail = ['gadgetlikeyou@list.ru', 'lell.almaty@mail.ru'];
 
 //cgkb-almaty@mail.ru
-				
+/*
 if(send_email($subject, $text, $myMail)) {
 	echo "
 	
@@ -60,6 +75,7 @@ header( "refresh:5;url=/" );
 	
 	";
 }
+*/
 
 ?>
 						</p>
