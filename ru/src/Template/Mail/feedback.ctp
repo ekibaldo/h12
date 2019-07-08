@@ -58,7 +58,7 @@ E-mail: ".$email."
 $myMail = ['gadgetlikeyou@list.ru', 'lell.almaty@mail.ru'];
 
 //cgkb-almaty@mail.ru
-/*
+
 if(send_email($subject, $text, $myMail)) {
 	echo "
 	
@@ -75,7 +75,7 @@ header( "refresh:5;url=/" );
 	
 	";
 }
-*/
+
 
 ?>
 						</p>
