@@ -13,14 +13,14 @@ $query = $faq_table
 
 foreach ($query as $faq):
 ?>
-
+<!--
     <b>Дата:</b> <?= $faq->date_post ?> <br>
     <b>ФИО:</b> <?= $faq->fio ?> <br>
     <b>Вопрос:</b> <?= $faq->q ?> <br>
     <b>Ответ:</b> <?= $faq->a ?> <br>
 
     <hr>
-
+-->
 <?php
 endforeach;
 ?>

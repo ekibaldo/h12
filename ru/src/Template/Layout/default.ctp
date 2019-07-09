@@ -59,7 +59,10 @@ $cakeDescription = $this->fetch('title');
                 <li style="border-right: 1px solid #fff;"><a href="/ru/servs/">Услуги</a></li>
                 <li><a href="/ru/admin/">Настройки</a></li>
                 <li><a href="/ru/admin/layout/">Шаблон</a></li>
+                <li><a href="/ru/ad-reviews">Отзывы</a></li>
+                <!--
                 <li><a href="/ru/ad-faq">FAQ</a></li>
+                -->
                 <li style="border-right: 1px solid #fff; border-left: 1px solid #fff;"><a href="/ru/fm/dialog.php" target="_blank">Файловый менеджер</a></li>
             </ul>    
 

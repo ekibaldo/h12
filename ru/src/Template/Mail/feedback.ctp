@@ -26,20 +26,22 @@
 <?php
 use Cake\ORM\TableRegistry;
 
-
+$name = $_POST['name'];
 $phone = $_POST['phone'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
 
 if($_POST['name']!=''){
-    $faq = TableRegistry::get('ad_faq');
-    $query = $faq->query();
-    $query->insert(['date_post','fio', 'q','status'])
+    $reviews= TableRegistry::get('ad_reviews');
+    $query = $reviews->query();
+    $query->insert(['date','fio', 'phone', 'email', 'message','status'])
         ->values([
-            'date_post'=> date('Y-m-d', time()),
+            'date'=> date('Y-m-d', time()),
             'fio' => $_POST['name'],
-            'q' => $_POST['message'],
+            'phone' => $_POST['phone'],
+            'email' => $_POST['email'],
+            'message' => $_POST['message'],
             'status' => 0
         ])
         ->execute();
